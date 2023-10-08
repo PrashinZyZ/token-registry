@@ -1,0 +1,6 @@
+{
+    "name": "EcoMint",
+    "symbol": "ECM",
+    "decimals":18,
+    "desc": "Represents the underlying cost of using EcoMint"
+}
